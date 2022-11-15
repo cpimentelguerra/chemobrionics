@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chemobrionics Database</title>
-    <link>https://cpimentelguerra.com/chemicalgardens/</link>
-      <atom:link href="https://cpimentelguerra.com/chemicalgardens/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cpimentelguerra.com/chemobrionics/</link>
+      <atom:link href="https://cpimentelguerra.com/chemobrionics/index.xml" rel="self" type="application/rss+xml" />
     <description>Chemobrionics Database</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Oct 2022 20:45:57 +0100</lastBuildDate>
     <image>
-      <url>https://cpimentelguerra.com/chemicalgardens/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cpimentelguerra.com/chemobrionics/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Chemobrionics Database</title>
-      <link>https://cpimentelguerra.com/chemicalgardens/</link>
+      <link>https://cpimentelguerra.com/chemobrionics/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://cpimentelguerra.com/chemicalgardens/admin/config.yml</link>
+      <link>https://cpimentelguerra.com/chemobrionics/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.com/chemicalgardens/admin/config.yml</guid>
+      <guid>https://cpimentelguerra.com/chemobrionics/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://cpimentelguerra.com/chemicalgardens/contact/</link>
+      <link>https://cpimentelguerra.com/chemobrionics/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.com/chemicalgardens/contact/</guid>
+      <guid>https://cpimentelguerra.com/chemobrionics/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://cpimentelguerra.com/chemicalgardens/people/</link>
+      <link>https://cpimentelguerra.com/chemobrionics/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.com/chemicalgardens/people/</guid>
+      <guid>https://cpimentelguerra.com/chemobrionics/people/</guid>
       <description></description>
     </item>
     

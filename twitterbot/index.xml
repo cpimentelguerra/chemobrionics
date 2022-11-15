@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Twitter ChemGardenPaper Bot | Chemobrionics Database</title>
-    <link>https://cpimentelguerra.com/chemicalgardens/twitterbot/</link>
-      <atom:link href="https://cpimentelguerra.com/chemicalgardens/twitterbot/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cpimentelguerra.com/chemobrionics/twitterbot/</link>
+      <atom:link href="https://cpimentelguerra.com/chemobrionics/twitterbot/index.xml" rel="self" type="application/rss+xml" />
     <description>Twitter ChemGardenPaper Bot</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Oct 2022 20:45:57 +0100</lastBuildDate>
     <image>
-      <url>https://cpimentelguerra.com/chemicalgardens/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cpimentelguerra.com/chemobrionics/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Twitter ChemGardenPaper Bot</title>
-      <link>https://cpimentelguerra.com/chemicalgardens/twitterbot/</link>
+      <link>https://cpimentelguerra.com/chemobrionics/twitterbot/</link>
     </image>
     
   </channel>
