@@ -2,37 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chemobrionics Database</title>
-    <link>https://cpimentelguerra.com/chemicalgardens/</link>
-      <atom:link href="https://cpimentelguerra.com/chemicalgardens/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cpimentelguerra.com/chemobrionics/</link>
+      <atom:link href="https://cpimentelguerra.com/chemobrionics/index.xml" rel="self" type="application/rss+xml" />
     <description>Chemobrionics Database</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 16 Oct 2022 20:45:57 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cpimentelguerra.com/chemicalgardens/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cpimentelguerra.com/chemobrionics/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Chemobrionics Database</title>
-      <link>https://cpimentelguerra.com/chemicalgardens/</link>
+      <link>https://cpimentelguerra.com/chemobrionics/</link>
     </image>
     
     <item>
-      <title></title>
-      <link>https://cpimentelguerra.com/chemicalgardens/admin/config.yml</link>
+      <title>Updates</title>
+      <link>https://cpimentelguerra.com/chemobrionics/updates/updates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.com/chemicalgardens/admin/config.yml</guid>
+      <guid>https://cpimentelguerra.com/chemobrionics/updates/updates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New version alpha-0.0.15</title>
+      <link>https://cpimentelguerra.com/chemobrionics/post/2023-07-04-v.a.0.0.15/</link>
+      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.com/chemobrionics/post/2023-07-04-v.a.0.0.15/</guid>
+      <description>&lt;p&gt;A new version of the database has been published. It includes the following paper:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Omran A., Gonzalez A., Salvan C., Gaylor M., Wang J., Leszczynski J. and Feng T. (2023) Serpentinization-Associated Mineral Catalysis of the Protometabolic Formose System. Life 13, 1297. &lt;a href=&#34;https://doi.org/10.3390/life13061297&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.3390/life13061297&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In addition, the following paper has been also added to the &amp;ldquo;theoretical&amp;rdquo; zotero folder:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Batista B. C., Morris A. Z. and Steinbock O. (2023) Pattern selection by material aging: Modeling chemical gardens in two and three dimensions. Proceedings of the National Academy of Sciences 120, e2305172120. &lt;a href=&#34;https://doi.org/10.1073/pnas.2305172120&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1073/pnas.2305172120&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New version alpha-0.0.15</title>
+      <link>https://cpimentelguerra.com/chemobrionics/updates/2023-07-04-v.a.0.0.15/</link>
+      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.com/chemobrionics/updates/2023-07-04-v.a.0.0.15/</guid>
+      <description>&lt;p&gt;A new version of the database has been published. It includes the following paper:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Omran A., Gonzalez A., Salvan C., Gaylor M., Wang J., Leszczynski J. and Feng T. (2023) Serpentinization-Associated Mineral Catalysis of the Protometabolic Formose System. Life 13, 1297. &lt;a href=&#34;https://doi.org/10.3390/life13061297&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.3390/life13061297&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In addition, the following paper has been also added to the &amp;ldquo;theoretical&amp;rdquo; zotero folder:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Batista B. C., Morris A. Z. and Steinbock O. (2023) Pattern selection by material aging: Modeling chemical gardens in two and three dimensions. Proceedings of the National Academy of Sciences 120, e2305172120. &lt;a href=&#34;https://doi.org/10.1073/pnas.2305172120&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1073/pnas.2305172120&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cpimentelguerra.com/chemobrionics/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.com/chemobrionics/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://cpimentelguerra.com/chemicalgardens/contact/</link>
+      <link>https://cpimentelguerra.com/chemobrionics/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.com/chemicalgardens/contact/</guid>
+      <guid>https://cpimentelguerra.com/chemobrionics/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://cpimentelguerra.com/chemicalgardens/people/</link>
+      <link>https://cpimentelguerra.com/chemobrionics/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cpimentelguerra.com/chemicalgardens/people/</guid>
+      <guid>https://cpimentelguerra.com/chemobrionics/people/</guid>
       <description></description>
     </item>
     
