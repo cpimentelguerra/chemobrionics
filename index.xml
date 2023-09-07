@@ -5,12 +5,25 @@
     <link>https://cpimentelguerra.com/chemobrionics/</link>
       <atom:link href="https://cpimentelguerra.com/chemobrionics/index.xml" rel="self" type="application/rss+xml" />
     <description>Chemobrionics Database</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cpimentelguerra.com/chemobrionics/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Chemobrionics Database</title>
       <link>https://cpimentelguerra.com/chemobrionics/</link>
     </image>
+    
+    <item>
+      <title>New version alpha-0.0.16b</title>
+      <link>https://cpimentelguerra.com/chemobrionics/updates/2023-09-07-v.a.0.0.16b/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.com/chemobrionics/updates/2023-09-07-v.a.0.0.16b/</guid>
+      <description>&lt;p&gt;A new version of the database has been published. It includes the following paper:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Helmbrecht V., Weingart M., Klein F., Braun D. and Orsi W. D. (2023) White and green rust chimneys accumulate RNA in a ferruginous chemical garden. Geobiology. &lt;a href=&#34;https://doi.org/10.1111/gbi.12572&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1111/gbi.12572&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To avoid creating a new DOI with each published article, from now on the Zotero database will be updated when there are a certain number of articles or a certain amount of time has passed since the last update.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New version alpha-0.0.16</title>
