@@ -5,12 +5,32 @@
     <link>https://cpimentelguerra.com/chemobrionics/updates/</link>
       <atom:link href="https://cpimentelguerra.com/chemobrionics/updates/index.xml" rel="self" type="application/rss+xml" />
     <description>Updates</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cpimentelguerra.com/chemobrionics/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Updates</title>
       <link>https://cpimentelguerra.com/chemobrionics/updates/</link>
     </image>
+    
+    <item>
+      <title>New version alpha-0.0.18</title>
+      <link>https://cpimentelguerra.com/chemobrionics/updates/2023-11-21-v.a.0.0.18/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.com/chemobrionics/updates/2023-11-21-v.a.0.0.18/</guid>
+      <description>&lt;p&gt;A new version of the database has been published. It includes the following papers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Aslanbay Guler B., Demirel Z. and Imamoglu E. (2023) Comparative Evaluation of Chemical Garden Growth Techniques. Langmuir.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Patel V. K. and Busupalli B. (2023) Light-modulated colour transformation in highly intertwined vertically growing silver tungstate tubes. Phys. Chem. Chem. Phys.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Testón-Martínez S., Huertas-Roldán T., Knoll P., Barge L. M., Sainz-Díaz I. and Cartwright J. (2023) A microfluidic labyrinth self-assembled by a chemical garden. Phys. Chem. Chem. Phys.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>New version alpha-0.0.17</title>
