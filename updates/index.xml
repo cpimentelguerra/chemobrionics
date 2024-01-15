@@ -90,5 +90,18 @@
 </description>
     </item>
     
+    <item>
+      <title>New version alpha-0.0.18b</title>
+      <link>https://cpimentelguerra.com/chemobrionics/updates/2023-11-21-v.a.0.0.18b/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.com/chemobrionics/updates/2023-11-21-v.a.0.0.18b/</guid>
+      <description>&lt;p&gt;A new version of the database has been published. It includes the following papers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cooper M. A., Batista B. C. and Steinbock O. (2023) Non-equilibrium Composition of Mixed Metal Hydroxide Membranes Grown in Flow Systems. ACS Earth Space Chem. 7, 2410–2419. &lt;a href=&#34;https://doi.org/10.1021/acsearthspacechem.3c00188&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1021/acsearthspacechem.3c00188&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is a minor update and the database has not been updated in Zenodo.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
