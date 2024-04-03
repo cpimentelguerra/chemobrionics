@@ -5,12 +5,32 @@
     <link>https://cpimentelguerra.com/chemobrionics/</link>
       <atom:link href="https://cpimentelguerra.com/chemobrionics/index.xml" rel="self" type="application/rss+xml" />
     <description>Chemobrionics Database</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cpimentelguerra.com/chemobrionics/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Chemobrionics Database</title>
       <link>https://cpimentelguerra.com/chemobrionics/</link>
     </image>
+    
+    <item>
+      <title>New version alpha-0.0.19</title>
+      <link>https://cpimentelguerra.com/chemobrionics/updates/2024-04-03-v.a.0.0.19/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.com/chemobrionics/updates/2024-04-03-v.a.0.0.19/</guid>
+      <description>&lt;p&gt;A new version of the database has been published. It includes the following papers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Patel V., Patel M., Busupalli B. and Solanki A. (2024) Interface Engineering Enables Multilevel Resistive Switching in Ultra-Low-Power Chemobrionic Copper Silicate. Langmuir 40, 2311–2319.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Siev E. A., Batista B. C. and Steinbock O. (2024) Coiling of Secondary Tubes Formed from the Colloidal Exhaust of Primary Chemical Gardens. J. Phys. Chem. B.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Weingart M., Chen S., Donat C., Helmbrecht V., Orsi W. D., Braun D. and Alim K. (2023) Alkaline vents recreated in two dimensions to study pH gradients, precipitation morphology, and molecule accumulation. Science Advances 9, eadi1884.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>New version alpha-0.0.18</title>
