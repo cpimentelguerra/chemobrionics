@@ -5,12 +5,30 @@
     <link>https://cpimentelguerra.com/chemobrionics/</link>
       <atom:link href="https://cpimentelguerra.com/chemobrionics/index.xml" rel="self" type="application/rss+xml" />
     <description>Chemobrionics Database</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cpimentelguerra.com/chemobrionics/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Chemobrionics Database</title>
       <link>https://cpimentelguerra.com/chemobrionics/</link>
     </image>
+    
+    <item>
+      <title>New version alpha-0.0.19b</title>
+      <link>https://cpimentelguerra.com/chemobrionics/updates/2024-05-21-v.a.0.0.19b/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://cpimentelguerra.com/chemobrionics/updates/2024-05-21-v.a.0.0.19b/</guid>
+      <description>&lt;p&gt;A new version of the database has been published. It includes the following papers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Knoll P. and Loron C. C. (2024) Effect of Temperature on Calcium-based Chemical Garden Growth. ChemSystemsChem. &lt;a href=&#34;https://doi.org/10.1002/syst.202400012&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1002/syst.202400012&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Testón-Martínez S., Barge L. M., Eichler J., Sainz-Díaz C. I. and Cartwright J. H. E. (2024) Experimental modelling of the growth of tubular ice brinicles from brine flows under sea ice. The Cryosphere 18, 2195–2205. &lt;a href=&#34;https://doi.org/10.5194/tc-18-2195-2024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.5194/tc-18-2195-2024&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is a minor update and the database has not been updated in Zenodo.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New version alpha-0.0.19</title>
