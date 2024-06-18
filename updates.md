@@ -145,7 +145,7 @@ A new version of the database has been published. It includes the following pape
 
 This is a minor update and the database has not been updated in Zenodo.
 
-</br>
+<br>
 
 ## New version alpha-0.0.19b
 ###### Last updated on May 21, 2024
