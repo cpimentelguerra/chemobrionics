@@ -147,3 +147,5 @@ In addition, two more libraries with reviews and papers providing theoretical ba
 [*Reviews*](https://www.zotero.org/groups/3915735/chemical_garden_database/collections/HMWUCWJH)
 
 [*Theoretical background*](https://www.zotero.org/groups/3915735/chemical_garden_database/collections/HRIDJWUH)
+
+<script src="https://tinylytics.app/embed/e7zeffP-cdeigWn-stZa.js" defer></script>
