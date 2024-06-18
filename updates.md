@@ -157,3 +157,5 @@ A new version of the database has been published. It includes the following pape
 * Testón-Martínez S., Barge L. M., Eichler J., Sainz-Díaz C. I. and Cartwright J. H. E. (2024) Experimental modelling of the growth of tubular ice brinicles from brine flows under sea ice. The Cryosphere 18, 2195–2205. [https://doi.org/10.5194/tc-18-2195-2024](https://doi.org/10.5194/tc-18-2195-2024)
 
 This is a minor update and the database has not been updated in Zenodo.
+
+<script src="https://tinylytics.app/embed/e7zeffP-cdeigWn-stZa.js" defer></script> 
