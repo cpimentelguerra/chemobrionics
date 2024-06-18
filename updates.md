@@ -136,7 +136,16 @@ function myFunction() {
 </body>
 </html>
 
+## New version alpha-0.0.19c
+###### Last updated on Jun 18, 2024
 
+A new version of the database has been published. It includes the following paper:
+
+* Tanaka S., Otoguro K., Kunihiro M., Ishikawa H. and Sumino Y. (2024) Precipitation-induced filament pattern of injected fluid controlled by a structured cell. Phys. Rev. E 109, 065105. [https://doi.org/10.1103/PhysRevE.109.065105](https://doi.org/10.1103/PhysRevE.109.065105) 
+
+This is a minor update and the database has not been updated in Zenodo.
+
+  
 
 ## New version alpha-0.0.19b
 ###### Last updated on May 21, 2024
