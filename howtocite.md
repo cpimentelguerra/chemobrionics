@@ -112,13 +112,13 @@ body {margin:0;font-family:Arial}
 <body>
 
 <div class="topnav" id="myTopnav">
-  <a href="https://cpimentelguerra.com/new-chemDB/">Home</a>
-  <a href="https://cpimentelguerra.com/new-chemDB/zotero">Zotero library</a>
-  <a href="https://cpimentelguerra.com/new-chemDB/howtouse">How to use</a>
-  <a class="active" href="https://cpimentelguerra.com/new-chemDB/howtocite">How to cite</a>
-  <a href="https://cpimentelguerra.com/new-chemDB/about">About us</a>
+  <a href="https://cpimentelguerra.com/chemobrionics/">Home</a>
+  <a href="https://cpimentelguerra.com/chemobrionics/zotero">Zotero library</a>
+  <a href="https://cpimentelguerra.com/chemobrionics/howtouse">How to use</a>
+  <a class="active" href="https://cpimentelguerra.com/chemobrionics/howtocite">How to cite</a>
+  <a href="https://cpimentelguerra.com/chemobrionics/about">About us</a>
   <a href="https://cpimentelguerra.com/#contact">Contact</a>
-  <a href="https://cpimentelguerra.com/new-chemDB/updates">Updates</a>
+  <a href="https://cpimentelguerra.com/chemobrionics/updates">Updates</a>
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 </div>
 
