@@ -157,3 +157,5 @@ Currently, the database is divided in 8 different setups, including natural chem
 **Paste**
 
 **Solid**
+
+<script src="https://tinylytics.app/embed/e7zeffP-cdeigWn-stZa.js" defer></script> 
