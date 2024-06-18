@@ -112,13 +112,13 @@ body {margin:0;font-family:Arial}
 <body>
 
 <div class="topnav" id="myTopnav">
-  <a class="active" href="https://cpimentelguerra.com/new-chemDB/">Home</a>
-  <a href="https://cpimentelguerra.com/new-chemDB/zotero">Zotero library</a>
-  <a href="https://cpimentelguerra.com/new-chemDB/howtouse">How to use</a>
-  <a href="https://cpimentelguerra.com/new-chemDB/howtocite">How to cite</a>
-  <a href="https://cpimentelguerra.com/new-chemDB/about">About us</a>
+  <a class="active" href="https://cpimentelguerra.com/chemobrionics/">Home</a>
+  <a href="https://cpimentelguerra.com/chemobrionics/zotero">Zotero library</a>
+  <a href="https://cpimentelguerra.com/chemobrionics/howtouse">How to use</a>
+  <a href="https://cpimentelguerra.com/chemobrionics/howtocite">How to cite</a>
+  <a href="https://cpimentelguerra.com/chemobrionics/about">About us</a>
   <a href="https://cpimentelguerra.com/#contact">Contact</a>
-  <a href="https://cpimentelguerra.com/new-chemDB/updates">Updates</a>
+  <a href="https://cpimentelguerra.com/chemobrionics/updates">Updates</a>
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 </div>
 
@@ -138,9 +138,9 @@ function myFunction() {
 
 <br>
 
-The Chemobrionics Database is a database which aims to curate all the scientific works performed about chemobrionics. In this database, previously reported chemical gardens are classified using the anions and cations used, and the setup in which the chemical garden growth were promoted. In all cases, the last column is devoted to provide the references where such experiments were described. All these references are also curated in a [Zotero group library](/new-chemDB/zotero)
+The Chemobrionics Database is a database which aims to curate all the scientific works performed about chemobrionics. In this database, previously reported chemical gardens are classified using the anions and cations used, and the setup in which the chemical garden growth were promoted. In all cases, the last column is devoted to provide the references where such experiments were described. All these references are also curated in a [Zotero group library](/chemobrionics/zotero)
 
-If you find this database useful and you use it in your work, please [cite](/new-chemDB/howtocite) it as follows:
+If you find this database useful and you use it in your work, please [cite](/chemobrionics/howtocite) it as follows:
 
 * Pimentel, Carlos, Zheng, Mingchuan, Cartwright, Julyan H. E., & Sainz-Díaz, C. Ignacio  (2023). Chemobrionics Database: Categorisation of Chemical Gardens According to the Nature of the Anion, Cation and Experimental Procedure. *ChemSystemsChem*, 5, e202300002. DOI: [10.1002/syst.202300002](https://doi.org/10.1002/syst.202300002)
 
