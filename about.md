@@ -155,3 +155,5 @@ The work team of the Chemobrionics Database is:
 The authors would like to acknowledge the contribution of the European COST Action CA17120 supported by the EUFramework Programme Horizon 2020.
 
 Carlos Pimentel has received funding from the European Union Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No. 101021894 [CARS-CO2]. (From February 2022 to January 2024)
+
+<script src="https://tinylytics.app/embed/e7zeffP-cdeigWn-stZa.js" defer></script> 
