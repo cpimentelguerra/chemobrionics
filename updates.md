@@ -145,6 +145,8 @@ A new version of the database has been published. It includes the following pape
 
 This is a minor update and the database has not been updated in Zenodo.
 
+*In addition, the website has been modified in this update to make it even lighter, with an approximate size of about 700 Kb (uncompressed).*
+
 <br>
 
 ## New version alpha-0.0.19b
