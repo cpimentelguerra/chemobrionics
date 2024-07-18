@@ -136,6 +136,17 @@ function myFunction() {
 </body>
 </html>
 
+## New version alpha-0.0.20
+###### Last updated on Jul 18, 2024
+
+A new version of the database has been published. It includes the following paper:
+
+* Aslanbay Guler B., Morçimen Z. G., Taşdemir Ş., Demirel Z., Turunç E., Şendemir A. and Imamoglu E. (2024) Design of chemobrionic and biochemobrionic scaffolds for bone tissue engineering. Sci Rep 14, 13764. [https://doi.org/10.1038/s41598-024-63171-z](https://doi.org/10.1038/s41598-024-63171-z) 
+
+This update has also been done in zenodo, to collect all previous minor updates before the summer holidays.
+
+<br>
+
 ## New version alpha-0.0.19c
 ###### Last updated on Jun 18, 2024
 
