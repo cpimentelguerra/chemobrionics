@@ -138,7 +138,7 @@ function myFunction() {
 
 ## How to cite
 
-If you want to cite this work, we suggest you use the version consulted and the paper. Currently, the latest version of this database is version 0.0.19.
+If you want to cite this work, we suggest you use the version consulted and the paper. Currently, the latest version of this database is version 0.0.20.
 
 * Pimentel, Carlos, Zheng, Mingchuan, Cartwright, Julyan H. E., & Sainz-Díaz, C. Ignacio  (2023). Chemobrionics Database: Categorisation of Chemical Gardens According to the Nature of the Anion, Cation and Experimental Procedure. *ChemSystemsChem*, 5, e202300002. DOI: [10.1002/syst.202300002](https://doi.org/10.1002/syst.202300002)
 
