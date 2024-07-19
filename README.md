@@ -119,6 +119,7 @@ body {margin:0;font-family:Arial}
   <a href="https://cpimentelguerra.com/chemobrionics/about">About us</a>
   <a href="https://cpimentelguerra.com/#contact">Contact</a>
   <a href="https://cpimentelguerra.com/chemobrionics/updates">Updates</a>
+  <a href="https://cpimentelguerra.com/chemobrionics/feed.xml">RSS</a>
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 </div>
 
