@@ -4,3 +4,7 @@ plugins:
 title: Chemobrionics Database
 author: Carlos Pimentel
 languageCode: en-us
+
+feed:
+  collections:
+    - updates
