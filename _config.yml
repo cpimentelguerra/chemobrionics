@@ -7,4 +7,4 @@ languageCode: en-us
 
 feed:
   collections:
-    - updates
+    - versions
