@@ -136,39 +136,17 @@ function myFunction() {
 </body>
 </html>
 
-## New version alpha-0.0.20
-###### Last updated on Jul 18, 2024
+## Updates
 
-A new version of the database has been published. It includes the following paper:
-
-* Aslanbay Guler B., Morçimen Z. G., Taşdemir Ş., Demirel Z., Turunç E., Şendemir A. and Imamoglu E. (2024) Design of chemobrionic and biochemobrionic scaffolds for bone tissue engineering. Sci Rep 14, 13764. [https://doi.org/10.1038/s41598-024-63171-z](https://doi.org/10.1038/s41598-024-63171-z) 
-
-This update has also been done in zenodo, to collect all previous minor updates before the summer holidays.
-
-<br>
-
-## New version alpha-0.0.19c
-###### Last updated on Jun 18, 2024
-
-A new version of the database has been published. It includes the following paper:
-
-* Tanaka S., Otoguro K., Kunihiro M., Ishikawa H. and Sumino Y. (2024) Precipitation-induced filament pattern of injected fluid controlled by a structured cell. Phys. Rev. E 109, 065105. [https://doi.org/10.1103/PhysRevE.109.065105](https://doi.org/10.1103/PhysRevE.109.065105) 
-
-This is a minor update and the database has not been updated in Zenodo.
-
-*In addition, the website has been modified in this update to make it even lighter, with an approximate size of about 700 Kb (uncompressed).*
-
-<br>
-
-## New version alpha-0.0.19b
-###### Last updated on May 21, 2024
-
-A new version of the database has been published. It includes the following papers:
-
-* Knoll P. and Loron C. C. (2024) Effect of Temperature on Calcium-based Chemical Garden Growth. ChemSystemsChem. [https://doi.org/10.1002/syst.202400012](https://doi.org/10.1002/syst.202400012)
-
-* Testón-Martínez S., Barge L. M., Eichler J., Sainz-Díaz C. I. and Cartwright J. H. E. (2024) Experimental modelling of the growth of tubular ice brinicles from brine flows under sea ice. The Cryosphere 18, 2195–2205. [https://doi.org/10.5194/tc-18-2195-2024](https://doi.org/10.5194/tc-18-2195-2024)
-
-This is a minor update and the database has not been updated in Zenodo.
+<ul class="posts">
+  {% for post in site.categories.posts %}
+    <li class="post">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <time class="publish-date" datetime="{{ post.date | date: '%F' }}">
+        {{ post.date | date: "%B %-d, %Y" }}
+      </time>
+    </li>
+  {% endfor %}
+</ul>
 
 <script src="https://tinylytics.app/embed/e7zeffP-cdeigWn-stZa.js" defer></script> 
