@@ -1,2 +1,6 @@
+plugins:
+  - jekyll-feed
+
 title: Chemobrionics Database
+author: Carlos Pimentel
 languageCode: en-us
