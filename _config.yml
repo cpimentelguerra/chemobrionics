@@ -6,5 +6,7 @@ title: Chemobrionics Database
 author: Carlos Pimentel
 languageCode: en-us
 
+permalink: /chemobrionics/:year/:month/:day/:title:output_ext
+
 feed:
   posts_limit: 100
