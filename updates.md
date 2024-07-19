@@ -1,3 +1,20 @@
+---
+title: Updates
+---
+
+## Updates
+
+<ul class="updates">
+  {% for post in site.categories.updates %}
+    <li class="post">
+      <a href="{{ updates.url }}">{{ updates.title }}</a>
+      <time class="publish-date" datetime="{{ updates.date | date: '%F' }}">
+        {{ updates.date | date: "%B %-d, %Y" }}
+      </time>
+    </li>
+  {% endfor %}
+</ul>
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
