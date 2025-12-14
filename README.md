@@ -178,7 +178,9 @@ In addition, if you miss your work in the database, please let us know to update
   </body>  
 </html>
 
-<div id="wcb" class="carbonbadge"></div>
-<script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
-
 <script src="https://tinylytics.app/embed/e7zeffP-cdeigWn-stZa.js" defer></script> 
+
+<footer>
+  <div id="wcb" class="carbonbadge"></div>
+  <script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
+</footer>
