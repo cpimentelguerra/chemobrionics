@@ -146,7 +146,7 @@ If you find this database useful and you use it in your work, please [cite](/che
 
 * Pimentel, Carlos, Zheng, Mingchuan, Cartwright, Julyan H. E., & Sainz-Díaz, C. Ignacio  (2023). Chemobrionics Database: Categorisation of Chemical Gardens According to the Nature of the Anion, Cation and Experimental Procedure. *ChemSystemsChem*, 5, e202300002. DOI: [10.1002/syst.202300002](https://doi.org/10.1002/syst.202300002)
 
-* Pimentel, Carlos, Zheng, Mingchuan, Sainz-Díaz, C. Ignacio, & Cartwright, Julyan H. E. (2022). Chemobrionics Database (0.0.22) [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.15430837](https://doi.org/10.5281/zenodo.15430837)
+* Pimentel, Carlos, Zheng, Mingchuan, Sainz-Díaz, C. Ignacio, & Cartwright, Julyan H. E. (2022). Chemobrionics Database (0.0.23) [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.17940915](https://doi.org/10.5281/zenodo.17940915)
  
 In addition, if you miss your work in the database, please let us know to update it (cpimentelguerra(at)geo.ucm.es).
 
